@@ -1,8 +1,3 @@
-Absolutely! Here's a polished and **comprehensive `README.md`** for your Flutter Habit Tracker project, designed to impress both recruiters and contributors:
-
----
-
-```markdown
 # 🌱 Habit Tracker App
 
 A beautiful and minimalistic Flutter app that helps you track your daily habits and visualize your progress over time. Built with offline-first architecture using [Isar Database](https://isar.dev/) and supports light/dark themes for better accessibility and aesthetics.
@@ -60,8 +55,8 @@ habit_tracker/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/DannyMikeGanzaRwabuhama/habit_tracker_flutter.git
-cd habit_tracker_flutter
+git clone https://github.com/DannyMikeGanzaRwabuhama/habit-tracker-app.git
+cd habit-tracker-app
 ```
 
 ### 2. Install dependencies
